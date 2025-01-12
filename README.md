@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @salaria-bikram
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking for codes that can help me in learning Java.
+- 🌱 I’m currently learning Java, PHP and learning to create websites!
 - 📫 How to reach me- Instagram (salaria_bikram)
 
 <!---
