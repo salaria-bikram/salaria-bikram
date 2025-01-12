@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bikram
-- 👨‍🎓 Im a student at SPN Collegiate Senior Secondary School (in the campus of SPN College, Mukerian)
-- 🌱 I’m currently learning Java, PHP and Im also learning to create websites!
+- 👨‍🎓 I'm a student at SPN Collegiate Senior Secondary School (in the campus of SPN College, Mukerian)
+- 🌱 And currently I'm learning Java, PHP and also how to create websites!
 - 📫 How to reach me- Instagram/Snapchat: (salaria_bikram)
